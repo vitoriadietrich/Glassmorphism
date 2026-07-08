@@ -2,22 +2,22 @@
 
 Um projeto simples de **website com efeito glassmorphism** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar um **design moderno com efeito de vidro (glassmorphism)**, com transparência e blur.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS (backdrop-filter, transparency)
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Efeito glassmorphism
 - Design moderno e elegante
 - Layout responsivo
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador  
